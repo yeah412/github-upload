@@ -8,8 +8,9 @@ using namespace std;
 
 int main(){
 
-    Person p1("onur", "bilgin", 21);
-    cout << p1;
+    class Person p1("onur", "bilgin", 21);
+    class Person p2("atacan", 19);
+    cout << p1 + p2 << endl;
 
     return 0;
 }
