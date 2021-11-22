@@ -1,2 +1,2 @@
 ## Class practice in C++
-:+1:
+:+1: 
