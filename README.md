@@ -1,2 +1,4 @@
 ## Class practice in C++
-:+1: 
+:+1:
+
+merged new branch into master
